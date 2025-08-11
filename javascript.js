@@ -3,12 +3,12 @@ import { getFirestore, collection,  getDocs, addDoc  } from "https://www.gstatic
 
   
   const firebaseConfig = {
-    apiKey: "AIzaSyDtr6LfpEcBURf4TfYPlwEjS5w08K87Sdw",
-    authDomain: "erbase-f5b9c.firebaseapp.com",
-    projectId: "erbase-f5b9c",
-    storageBucket: "erbase-f5b9c.firebasestorage.app",
-    messagingSenderId: "140082194129",
-    appId: "1:140082194129:web:d72c2e5bcc3cec1fe747f0"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
 
